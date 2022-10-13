@@ -2,7 +2,6 @@
 Papers and notes from the ML reading group
 
 [//]: # (https://github.com/itamarsalazar/ML-reading-group)
-[Home](https://github.com/itamarsalazar/ML-reading-group)
 
 | Date | Presenter | Paper | Presentation/ Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
