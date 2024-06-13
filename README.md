@@ -5,6 +5,7 @@ Papers and notes from the ML reading group
 
 | Date | Presenter | Paper | Presentation/ Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
+| June 12, 2024 | Itamar F. Salazar-Reque | [Example Forgetting in Deep Learning](https://arxiv.org/pdf/1812.05159)| [Link](https://github.com/itamarsalazar/ML-reading-group/blob/main/presentations/toneva2019_an_empirical_study_of_example_forgetting.pdf)|
 | January 05, 2024 | Itamar F. Salazar-Reque | [ISTA & FISTA](https://www.math.mcgill.ca/yyang/comp/papers/FISTA.pdf)| [Link](https://github.com/itamarsalazar/ML-reading-group/blob/main/presentations/beck2009_FISTA.pdf)|
 | August 29, 2023 | Itamar F. Salazar-Reque | [Adversarial examples in the physical world](https://arxiv.org/pdf/1607.02533.pdf)| [Link](https://github.com/itamarsalazar/ML-reading-group/blob/3b7069d4b9bea56860838c579da075fef9c14da7/presentations/kurakin2018_adversarial_examples_physical_world.pdf)|
 | - | - |Geometric Deep Learning|[-](https://github.com/itamarsalazar/ML-reading-group)|
